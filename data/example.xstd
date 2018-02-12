@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diagram>
-  <name>AChart</name>
+  <name>example</name>
   <data>
     <Statemachine>
       <event name="a" comment="" />
